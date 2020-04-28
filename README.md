@@ -1,2 +1,2 @@
 # duplicate-lines
-Perform to verification if a file contain lines duplicates
+Script Perl to perform verification if a file contain lines duplicates
